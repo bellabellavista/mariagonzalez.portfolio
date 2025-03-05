@@ -2,5 +2,5 @@ Title: Maria Gonzalez
 #Logo
 description: Designer
 #show_downloads:true
-theme: hyde
+remote_theme: poole/hyde
 
